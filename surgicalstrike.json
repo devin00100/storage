@@ -451,11 +451,6 @@
         "Earnings": 1069213,
         "Time": "8:51:03 pm",
         "Millions": "1.07 Millions"
-      },
-      "Constellations": {
-        "Earnings": 628897,
-        "Time": "9:15:30 pm",
-        "Millions": "0.63 Millions"
       }
     }
   },
@@ -477,6 +472,11 @@
         "Earnings": 3389831,
         "Time": "8:37:56 pm",
         "Millions": "3.39 Millions"
+      },
+      "Constellations": {
+        "Earnings": 1923077,
+        "Time": "9:15:31 pm",
+        "Millions": "1.92 Millions"
       }
     }
   }
