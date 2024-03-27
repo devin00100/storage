@@ -466,6 +466,11 @@
         "Earnings": 2380952,
         "Time": "11:04:47 pm",
         "Millions": "2.38 Millions"
+      },
+      "Ultimate Dankers": {
+        "Earnings": 19736842,
+        "Time": "11:11:51 pm",
+        "Millions": "19.74 Millions"
       }
     }
   },
@@ -497,11 +502,6 @@
         "Earnings": 1351351,
         "Time": "10:00:39 pm",
         "Millions": "1.35 Millions"
-      },
-      "Ultimate Dankers": {
-        "Earnings": 19736842,
-        "Time": "11:11:51 pm",
-        "Millions": "19.74 Millions"
       }
     }
   }
