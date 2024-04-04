@@ -1567,6 +1567,11 @@
         "Earnings": 0,
         "Time": "7:28:06 pm",
         "Millions": 0
+      },
+      "AniZone": {
+        "Earnings": 11111111,
+        "Time": "7:33:48 pm",
+        "Millions": "11.11 Millions"
       }
     }
   },
@@ -1578,11 +1583,6 @@
         "Earnings": 271739,
         "Time": "5:58:03 pm",
         "Millions": "0.27 Millions"
-      },
-      "AniZone": {
-        "Earnings": 11111111,
-        "Time": "7:33:47 pm",
-        "Millions": "11.11 Millions"
       }
     }
   }
