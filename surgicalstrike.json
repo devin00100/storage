@@ -2078,5 +2078,16 @@
         "Millions": 0
       }
     }
+  },
+  {
+    "date": "2024-04-09",
+    "author": "DuDe MaC",
+    "Servers": {
+      "Lunar Abyss": {
+        "Earnings": 26315789,
+        "Time": "11:01:33 am",
+        "Millions": "26.32 Millions"
+      }
+    }
   }
 ]
